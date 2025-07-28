@@ -1,24 +1,24 @@
-# 👋 Hello, I'm Andrew Yanulis
+# Hello, I'm Andrew Yanulis
 
-## 💻 Aspiring IT Professional | IoT Architect | Front-End Developer
+## Aspiring IT Professional | IoT Architect | Front-End Developer
 
 I'm passionate about building secure, scalable, and human-centered tech — combining creative design and hands-on technical skills.
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 - 🎓 **B.S. in Interdisciplinary Studies, Architectural Studies**  
   *Trinity College – Hartford, CT*
-- 📜 **Google Professional Certificates**  
+- **Google Professional Certificates**  
   - IT Support  
   - Cybersecurity
-- 💡 **Meta Front-End Developer Certificate**
-- 🔌 **IoT Programming & Architecture (UC Irvine – Coursera)**
+- **Meta Front-End Developer Certificate**
+- **IoT Programming & Architecture (UC Irvine – Coursera)**
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 - **Languages:** JavaScript, HTML, CSS, Python  
 - **Frameworks & Tools:** React, Git, GitHub, Figma, VS Code  
@@ -27,15 +27,15 @@ I'm passionate about building secure, scalable, and human-centered tech — comb
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
-- 🔐 Building secure home IoT projects with Raspberry Pi & ESP32  
-- 🌐 Developing accessible, mobile-first front-end apps  
-- ☁️ Learning AWS IoT Core and cloud-native architecture
+- Building secure home IoT projects with Raspberry Pi & ESP32  
+- Developing accessible, mobile-first front-end apps  
+- Learning AWS IoT Core and cloud-native architecture
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/andrewyanulis)  
 - [Email](mailto:andrew.yanulis@me.com)
